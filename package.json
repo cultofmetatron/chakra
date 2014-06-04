@@ -1,0 +1,11 @@
+{
+  "name": "chakra",
+  "version": "0.0.0",
+  "description": "an ecommerce shopping platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "Peter de Croos <cultofmetatron@aumlogic.com>",
+  "license": "ISC"
+}
